@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/qurateinc/vue-pouch#readme",
   "dependencies": {
-    "pouchdb-live-find": "^0.3.0"
+    "pouchdb-live-find": "^0.4.0"
   }
 }
